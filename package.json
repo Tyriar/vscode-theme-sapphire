@@ -1,0 +1,32 @@
+{
+  "name": "theme-sapphire",
+  "displayName": "Sapphire Theme",
+  "description": "Sapphire is a vibrant blue theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "Tyriar",
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyriar/vscode-theme-sapphire/issues"
+  },
+  "homepage": "https://github.com/Tyriar/vscode-theme-sapphire",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tyriar/vscode-theme-sapphire"
+  },
+  "engines": {
+    "vscode": "^1.9.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sapphire",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  }
+}
