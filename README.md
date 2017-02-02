@@ -36,6 +36,10 @@ Sapphire attempts to make selections more clear by giving them distinct colors w
 
 ## Release notes
 
+**v0.0.3**
+
+- Add basic C# support
+
 **v0.0.2**
 
 - Added a color specific for block quotes in markdown
