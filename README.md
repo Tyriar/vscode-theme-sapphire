@@ -33,3 +33,14 @@ Sapphire attempts to make selections more clear by giving them distinct colors w
 **Find highlight** is used for all matches of find in file (<kbd>ctrl</kbd>/<kbd>cmd</kbd>+<kbd>f</kbd>) and find in files (<kbd>ctrl</kbd>/<kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>f</kbd>). It's colored in red with the active find selection bring brighter than the others and also having a background highlight.
 
 ![Find highlight](images/find-highlight.png)
+
+## Release notes
+
+**v0.0.2**
+
+- Added a color specific for block quotes in markdown
+- Lightened the comment color so that it has slightly better contrast with the diff background [#1](https://github.com/Tyriar/vscode-theme-sapphire/issues/1)
+
+**v0.0.1**
+
+Initial release
