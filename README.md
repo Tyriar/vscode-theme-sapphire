@@ -14,7 +14,7 @@ Colors in Sapphire have strong meaning.
 - **Strings** are red
 - **Numbers** are orange
 
-Currently JavaScript and TypeScript are supported with the above. Other languages will still probably be colored but may not be colored completely and the color meanings may be off until they're explicitly supported. HTML, CSS and Markdown are also supported (but they don't need the semantics above),
+Currently C#, JavaScript and TypeScript are supported with the above. Other languages will still probably be colored but may not be colored completely and the color meanings may be off until they're explicitly supported. HTML, CSS and Markdown are also supported (but they don't need the semantics above).
 
 If you see any inconsistencies you can report it on the [GitHub repo](https://github.com/Tyriar/vscode-theme-sapphire).
 
@@ -35,6 +35,11 @@ Sapphire attempts to make selections more clear by giving them distinct colors w
 ![Find highlight](images/find-highlight.png)
 
 ## Release notes
+
+**v0.0.4**
+
+- C#: Make namespaces default white
+- C#: Make preprocessors the comment color
 
 **v0.0.3**
 
