@@ -36,6 +36,11 @@ Sapphire attempts to make selections more clear by giving them distinct colors w
 
 ## Release notes
 
+**v0.0.5**
+
+- Markdown: Make bold and italic light blue
+- Markdown: Make list items blue
+
 **v0.0.4**
 
 - C#: Make namespaces default white
