@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const sapphireColors = {
+const colors = {
   red: '#DA6771',
   redLight: '#e5949b',
   green: '#4EB071',
@@ -14,32 +14,32 @@ const sapphireColors = {
   grey: '#4A5160'
 }
 
-const sapphireColorSet: IColorSet = {
+const colorSet: IColorSet = {
   base: {
     background: '#12171f',
     foreground: '#efefef',
-    color1: sapphireColors.blue,
-    color2: sapphireColors.red,
-    color3: sapphireColors.green,
-    color4: sapphireColors.yellow,
+    color1: colors.blue,
+    color2: colors.red,
+    color3: colors.green,
+    color4: colors.yellow,
   },
   syntax: {
-    identifier: sapphireColors.blueLight,
-    string: sapphireColors.red,
-    number: sapphireColors.redLight,
-    keyword: sapphireColors.blue,
-    boolean: sapphireColors.blue,
-    function: sapphireColors.teal,
-    functionCall: sapphireColors.yellow,
-    storage: sapphireColors.blue,
-    comment: sapphireColors.grey,
-    class: sapphireColors.teal,
-    classMember: sapphireColors.teal,
-    type: sapphireColors.green,
-    this: sapphireColors.blue,
-    cssClass: sapphireColors.blue,
-    cssId: sapphireColors.red,
-    cssTag: sapphireColors.teal,
+    identifier: colors.blueLight,
+    string: colors.red,
+    number: colors.redLight,
+    keyword: colors.blue,
+    boolean: colors.blue,
+    function: colors.teal,
+    functionCall: colors.yellow,
+    storage: colors.blue,
+    comment: colors.grey,
+    class: colors.teal,
+    classMember: colors.teal,
+    type: colors.green,
+    this: colors.blue,
+    cssClass: colors.blue,
+    cssId: colors.red,
+    cssTag: colors.teal,
     markdownQuote: '#c0c0c0'
   },
   ui: {
@@ -60,25 +60,25 @@ const sapphireColorSet: IColorSet = {
     // White with ~10% opacity
     wordHighlight: '#ffffff18',
     wordHighlightStrong: '#ffffff18',
-    activeLinkForeground: sapphireColors.blue,
+    activeLinkForeground: colors.blue,
 
     ansiBlack: '#666666',
-    ansiRed: sapphireColors.red,
-    ansiGreen: sapphireColors.green,
-    ansiYellow: sapphireColors.yellow,
-    ansiBlue: sapphireColors.blue,
-    ansiMagenta: sapphireColors.pink,
-    ansiCyan: sapphireColors.teal,
+    ansiRed: colors.red,
+    ansiGreen: colors.green,
+    ansiYellow: colors.yellow,
+    ansiBlue: colors.blue,
+    ansiMagenta: colors.pink,
+    ansiCyan: colors.teal,
     ansiWhite: '#efefef',
     ansiBrightBlack: '#666666',
-    ansiBrightRed: sapphireColors.red,
-    ansiBrightGreen: sapphireColors.green,
-    ansiBrightYellow: sapphireColors.yellow,
-    ansiBrightBlue: sapphireColors.blue,
-    ansiBrightMagenta: sapphireColors.pink,
-    ansiBrightCyan: sapphireColors.teal,
+    ansiBrightRed: colors.red,
+    ansiBrightGreen: colors.green,
+    ansiBrightYellow: colors.yellow,
+    ansiBrightBlue: colors.blue,
+    ansiBrightMagenta: colors.pink,
+    ansiBrightCyan: colors.teal,
     ansiBrightWhite: '#efefef'
   }
 };
 
-generateTheme('Generated Theme', sapphireColorSet, path.join(__dirname, 'theme.json'));
+generateTheme('Sapphire', colorSet, path.join(__dirname, 'theme.json'));
