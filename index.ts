@@ -15,6 +15,14 @@ const sapphireColors = {
 }
 
 const sapphireColorSet: IColorSet = {
+  base: {
+    background: '#12171f',
+    foreground: '#efefef',
+    color1: sapphireColors.blue,
+    color2: sapphireColors.red,
+    color3: sapphireColors.green,
+    color4: sapphireColors.yellow,
+  },
   syntax: {
     identifier: sapphireColors.blueLight,
     string: sapphireColors.red,
