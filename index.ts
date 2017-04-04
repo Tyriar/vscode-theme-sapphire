@@ -36,16 +36,12 @@ const colorSet: IColorSet = {
     class: colors.teal,
     classMember: colors.teal,
     type: colors.green,
-    this: colors.blue,
     cssClass: colors.blue,
     cssId: colors.red,
     cssTag: colors.teal,
     markdownQuote: '#c0c0c0'
   },
   ui: {
-    background: '#12171f',
-    foreground: '#efefef',
-    accent: '#0a0d12',
     cursor: '#ffffff',
     guide: '#263040',
     invisibles: '#263040',
@@ -60,24 +56,25 @@ const colorSet: IColorSet = {
     // White with ~10% opacity
     wordHighlight: '#ffffff18',
     wordHighlightStrong: '#ffffff18',
-    activeLinkForeground: colors.blue,
-
-    ansiBlack: '#666666',
-    ansiRed: colors.red,
-    ansiGreen: colors.green,
-    ansiYellow: colors.yellow,
-    ansiBlue: colors.blue,
-    ansiMagenta: colors.pink,
-    ansiCyan: colors.teal,
-    ansiWhite: '#efefef',
-    ansiBrightBlack: '#666666',
-    ansiBrightRed: colors.red,
-    ansiBrightGreen: colors.green,
-    ansiBrightYellow: colors.yellow,
-    ansiBrightBlue: colors.blue,
-    ansiBrightMagenta: colors.pink,
-    ansiBrightCyan: colors.teal,
-    ansiBrightWhite: '#efefef'
+    activeLinkForeground: colors.blue
+  },
+  terminal: {
+    black: '#666666',
+    red: colors.red,
+    green: colors.green,
+    yellow: colors.yellow,
+    blue: colors.blue,
+    magenta: colors.pink,
+    cyan: colors.teal,
+    white: '#efefef',
+    brightBlack: '#666666',
+    brightRed: colors.red,
+    brightGreen: colors.green,
+    brightYellow: colors.yellow,
+    brightBlue: colors.blue,
+    brightMagenta: colors.pink,
+    brightCyan: colors.teal,
+    brightWhite: '#efefef'
   }
 };
 
