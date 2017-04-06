@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Clean up readme
+
 ## 0.1.0
 
 - Background: Made slightly darker
