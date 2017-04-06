@@ -1,4 +1,4 @@
-Sapphire is a vibrant blue theme for Visual Studio Code.
+Sapphire is a vibrant blue theme for Visual Studio Code, created with the help of [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator).
 
 ![Visual Studio Code Sapphire theme preview](images/preview.png)
 

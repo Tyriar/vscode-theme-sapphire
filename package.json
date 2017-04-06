@@ -6,6 +6,10 @@
   "publisher": "Tyriar",
   "icon": "images/icon.png",
   "license": "MIT",
+  "scripts": {
+    "prestart": "tsc index.ts",
+    "start": "node index.js"
+  },
   "bugs": {
     "url": "https://github.com/Tyriar/vscode-theme-sapphire/issues"
   },
@@ -15,7 +19,7 @@
     "url": "https://github.com/Tyriar/vscode-theme-sapphire"
   },
   "engines": {
-    "vscode": "^1.9.0"
+    "vscode": "^1.11.0"
   },
   "categories": [
     "Themes"
@@ -28,5 +32,10 @@
         "path": "./theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.10",
+    "typescript": "^2.2.1",
+    "vscode-theme-generator": "0.0.7"
   }
 }
