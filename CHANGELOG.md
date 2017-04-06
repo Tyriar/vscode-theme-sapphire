@@ -1,3 +1,10 @@
+## 0.1.0
+
+- Background: Made slightly darker
+- Added workbench support
+- Added terminal support
+- Many other changes from upgrading underlying [theme generator](https://github.com/Tyriar/vscode-theme-generator)
+
 ## 0.0.6
 
 - Move release notes from README.md to CHANGELOG.md
