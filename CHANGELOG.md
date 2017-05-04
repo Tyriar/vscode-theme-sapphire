@@ -1,3 +1,8 @@
+## 0.2.0
+
+- Upgraded to vscode-theme-generator@0.0.13 designed for VS Code 1.12, this added support for theming many new workbench components
+- Background: Made slightly lighter
+
 ## 0.1.1
 
 - Clean up readme
