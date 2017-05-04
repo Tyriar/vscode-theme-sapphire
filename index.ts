@@ -16,7 +16,7 @@ const colors = {
 
 const colorSet: IColorSet = {
   base: {
-    background: '#12171f',
+    background: '#181e29',
     foreground: '#efefef',
     color1: colors.blue,
     color2: colors.red,
