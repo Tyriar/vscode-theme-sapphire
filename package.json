@@ -37,7 +37,7 @@
         "path": "./theme-bright.json"
       },
       {
-        "label": "Sapphire (Dark)",
+        "label": "Sapphire (Dim)",
         "uiTheme": "vs-dark",
         "path": "./theme-dim.json"
       }

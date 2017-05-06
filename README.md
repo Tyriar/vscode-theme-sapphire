@@ -33,3 +33,10 @@ Sapphire attempts to make selections more clear by giving them distinct colors w
 **Find highlight** is used for all matches of find in file (<kbd>ctrl</kbd>/<kbd>cmd</kbd>+<kbd>f</kbd>) and find in files (<kbd>ctrl</kbd>/<kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>f</kbd>). It's colored in red with the active find selection bring brighter than the others and also having a background highlight.
 
 ![Find highlight](images/find-highlight.png)
+
+## Dim and Bright Variants
+
+The theme also includes a dim and a bright variant.
+
+![Visual Studio Code Sapphire (Bright) theme preview](images/preview-bright.png)
+![Visual Studio Code Sapphire (Dim) theme preview](images/preview-dim.png)
