@@ -79,3 +79,9 @@ const colorSet: IColorSet = {
 };
 
 generateTheme('Sapphire', colorSet, path.join(__dirname, 'theme.json'));
+
+colorSet.base.background = '#242d3d'
+generateTheme('Sapphire (Bright)', colorSet, path.join(__dirname, 'theme-bright.json'));
+
+colorSet.base.background = '#080d14'
+generateTheme('Sapphire (Dim)', colorSet, path.join(__dirname, 'theme-dim.json'));
