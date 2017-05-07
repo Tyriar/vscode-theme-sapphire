@@ -83,7 +83,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#4A5160",
+        "foreground": "#535a6b",
         "fontStyle": "italic"
       }
     },
@@ -292,7 +292,7 @@
       "name": "C# preprocessor",
       "scope": "source.cs meta.preprocessor",
       "settings": {
-        "foreground": "#4A5160"
+        "foreground": "#535a6b"
       }
     },
     {

@@ -11,7 +11,7 @@ const colors = {
   blueLight: '#9fcff9',
   pink: '#B168DF',
   teal: '#21C5C7',
-  grey: '#4A5160'
+  grey: '#535a6b'
 }
 
 const colorSet: IColorSet = {
