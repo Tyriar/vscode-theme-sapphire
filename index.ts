@@ -75,6 +75,17 @@ const colorSet: IColorSet = {
     brightMagenta: colors.pink,
     brightCyan: colors.teal,
     brightWhite: '#efefef'
+  },
+  overrides: {
+    "editorGutter.modifiedBackground": "#4EB071",
+    "editorGutter.addedBackground": "#399EF4",
+    "editorGutter.deletedBackground": "#DA6771",
+    "gitDecoration.modifiedResourceForeground": "#4EB071",
+    "gitDecoration.deletedResourceForeground": "#DA6771",
+    "gitDecoration.untrackedResourceForeground": "#399EF4",
+    "gitDecoration.conflictingResourceForeground": "#fff099",
+    "gitDecoration.ignoredResourceForeground": "#535a6b",
+    "editorError.foreground": "#DA6771"
   }
 };
 

@@ -382,6 +382,15 @@
     "terminal.ansiWhite": "#efefef",
     "terminal.ansiYellow": "#fff099",
     "debugToolBar.background": "#0b121c",
-    "selection.background": "#399EF4"
+    "selection.background": "#399EF4",
+    "editorGutter.modifiedBackground": "#4EB071",
+    "editorGutter.addedBackground": "#399EF4",
+    "editorGutter.deletedBackground": "#DA6771",
+    "gitDecoration.modifiedResourceForeground": "#4EB071",
+    "gitDecoration.deletedResourceForeground": "#DA6771",
+    "gitDecoration.untrackedResourceForeground": "#399EF4",
+    "gitDecoration.conflictingResourceForeground": "#fff099",
+    "gitDecoration.ignoredResourceForeground": "#535a6b",
+    "editorError.foreground": "#DA6771"
   }
 }
