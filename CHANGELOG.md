@@ -1,3 +1,14 @@
+## 0.4.0
+
+- Added gutter SCM decoration colors
+- Added explorer SCM and error colors
+
+## 0.3.0
+
+- Added non-editor selection colors
+- Added tab border color
+- Added active line number color
+
 ## 0.2.1
 
 - Added dim and bright variants
