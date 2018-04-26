@@ -8,7 +8,7 @@
 - Added non-editor selection colors
 - Added tab border color
 - Added active line number color
-- Lighten comment foregorund color to help contrast with the selection
+- Lighten comment foreground color to help contrast with the selection
 
 ## 0.2.1
 
