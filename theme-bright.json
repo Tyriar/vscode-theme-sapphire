@@ -329,10 +329,12 @@
     "editorGroup.dropBackground": "#399EF480",
     "editorGroupHeader.tabsBackground": "#2b3649",
     "tab.border": "#00000033",
+    "tab.activeBorder": "#399EF4",
     "tab.inactiveBackground": "#323f55",
     "editor.background": "#242d3d",
     "editor.foreground": "#efefef",
     "editorLineNumber.foreground": "#FFFFFF4d",
+    "editorLineNumber.activeForeground": "#399EF4",
     "editorCursor.foreground": "#ffffff",
     "editor.selectionBackground": "#153958",
     "editor.selectionHighlightBackground": "#2b74b380",
@@ -379,6 +381,7 @@
     "terminal.ansiRed": "#DA6771",
     "terminal.ansiWhite": "#efefef",
     "terminal.ansiYellow": "#fff099",
-    "debugToolBar.background": "#323f55"
+    "debugToolBar.background": "#323f55",
+    "selection.background": "#399EF4"
   }
 }
