@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="64" cy="64" r="62" fill="#181e29"/>
+    <g transform="translate(15,24) scale(1.5,1.5)">
+        <g transform="translate(0,2.5)">
+            <path d="m0 23 l30 0 l-15 -23" fill="#21c5c7"/>
+        </g>
+        <g transform="translate(2.5,0)">
+            <path d="m15 0 l30 0 l-15 23" fill="#399ef4"/>
+        </g>
+        <g transform="translate(5,2.5)">
+            <path d="m30 23 l30 0 l-15 -23" fill="#b168df"/>
+        </g>
+        <g transform="translate(5,5)">
+            <path d="m30 23 l30 0 l-15 23" fill="#da6771"/>
+        </g>
+        <g transform="translate(2.5,7.5)">
+            <path d="m15 46 l30 0 l-15 -23" fill="#fff099"/>
+        </g>
+        <g transform="translate(0,5)">
+            <path d="m0 23 l30 0 l-15 23" fill="#4eb071"/>
+        </g>
+    </g>
+</svg>
