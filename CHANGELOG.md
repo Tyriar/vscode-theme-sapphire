@@ -1,3 +1,7 @@
+## 0.5.0
+
+- Added a new icon
+
 ## 0.4.0
 
 - Added gutter SCM decoration colors
