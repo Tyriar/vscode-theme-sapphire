@@ -1,3 +1,11 @@
+## 0.6.0
+
+- Upgraded to vscode-theme-generator@0.0.18, special thanks to [@usernamehw](https://github.com/usernamehw) for many issue reports
+- TS/JS: Class members of form `class A { a = () => 0; }` are now colored
+- TS/JS: Fixed template expression `${}` coloring
+- TS/JS: Fixed bracket within template expression coloring
+- Markdown: Added code block and inline code colors
+
 ## 0.5.0
 
 - Added a new icon
