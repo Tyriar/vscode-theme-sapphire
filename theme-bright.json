@@ -97,7 +97,7 @@
     },
     {
       "name": "Class variable",
-      "scope": "variable.object.property",
+      "scope": "variable.object.property, meta.field.declaration entity.name.function",
       "settings": {
         "foreground": "#21C5C7"
       }
@@ -118,9 +118,16 @@
     },
     {
       "name": "Template expression",
-      "scope": "template.expression.begin, template.expression.end",
+      "scope": "template.expression.begin, template.expression.end, punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end",
       "settings": {
         "foreground": "#399EF4"
+      }
+    },
+    {
+      "name": "Brackets (needed for template expressions)",
+      "scope": "meta.brace.square, meta.brace.round, punctuation.definition.block",
+      "settings": {
+        "foreground": "#efefef"
       }
     },
     {
@@ -236,6 +243,20 @@
       "settings": {
         "foreground": "#9fcff9",
         "fontStyle": "italic bold"
+      }
+    },
+    {
+      "name": "Markdown code block",
+      "scope": "markup.fenced_code.block.markdown punctuation.definition.markdown",
+      "settings": {
+        "foreground": "#DA6771"
+      }
+    },
+    {
+      "name": "Markdown inline code",
+      "scope": "markup.inline.raw.string.markdown",
+      "settings": {
+        "foreground": "#DA6771"
       }
     },
     {
