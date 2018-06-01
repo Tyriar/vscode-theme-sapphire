@@ -124,8 +124,8 @@
       }
     },
     {
-      "name": "Brackets (needed for template expressions)",
-      "scope": "meta.brace.square, meta.brace.round, punctuation.definition.block",
+      "name": "Reset embedded/template expression colors",
+      "scope": "meta.embedded, source.groovy.embedded, meta.template.expression",
       "settings": {
         "foreground": "#efefef"
       }
@@ -348,6 +348,7 @@
     "sideBar.background": "#1c2431",
     "sideBarSectionHeader.background": "#212a39",
     "editorGroup.dropBackground": "#399EF480",
+    "editorGroup.focusedEmptyBorder": "#399EF4",
     "editorGroupHeader.tabsBackground": "#1c2431",
     "tab.border": "#00000033",
     "tab.activeBorder": "#399EF4",
