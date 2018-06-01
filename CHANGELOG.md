@@ -1,3 +1,9 @@
+## 0.7.0
+
+- Upgraded to vscode-theme-generator@0.0.19
+- Template expression and embedded language colors are now reset correctly
+- Added support for empty editor group focus border (coming in VS Code v1.25)
+
 ## 0.6.0
 
 - Upgraded to vscode-theme-generator@0.0.18, special thanks to [@usernamehw](https://github.com/usernamehw) for many issue reports
