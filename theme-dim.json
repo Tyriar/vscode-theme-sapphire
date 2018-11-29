@@ -16,6 +16,13 @@
       }
     },
     {
+      "name": "String Escape",
+      "scope": "constant.character.escape, text.html constant.character.entity.named, punctuation.definition.entity.html",
+      "settings": {
+        "foreground": "#ff9aa9"
+      }
+    },
+    {
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
@@ -353,6 +360,10 @@
     "tab.border": "#00000033",
     "tab.activeBorder": "#399EF4",
     "tab.inactiveBackground": "#0b121c",
+    "tab.activeModifiedBorder": "#399EF4",
+    "tab.inactiveModifiedBorder": "#225e92",
+    "tab.unfocusedActiveModifiedBorder": "#2d7ec3",
+    "tab.unfocusedInactiveModifiedBorder": "#225e92",
     "editor.background": "#080d14",
     "editor.foreground": "#efefef",
     "editorLineNumber.foreground": "#FFFFFF4d",
