@@ -1,3 +1,9 @@
+## 0.8.0
+
+- Upgraded to vscode-theme-generator@0.0.21
+- Highlight modified tabs is now supported (add setting: `"workbench.editor.highlightModifiedTabs": true`), via [@rdnlsmith](https://github.com/rdnlsmith)
+- String escapes are now displayed slightly differently to the regular string color, via [@rdnlsmith](https://github.com/rdnlsmith)
+
 ## 0.7.0
 
 - Upgraded to vscode-theme-generator@0.0.19
