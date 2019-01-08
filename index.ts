@@ -77,6 +77,8 @@ const colorSet: IColorSet = {
     brightWhite: '#efefef'
   },
   overrides: {
+    "diffEditor.insertedTextBackground": "#182818",
+    "diffEditor.removedTextBackground": "#261616",
     "editorGutter.modifiedBackground": "#4EB071",
     "editorGutter.addedBackground": "#399EF4",
     "editorGutter.deletedBackground": "#DA6771",
