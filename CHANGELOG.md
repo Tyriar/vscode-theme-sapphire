@@ -1,3 +1,7 @@
+## 0.8.1
+
+- Improve contrast of text and diff editor inserted/deleted background colors [#2](https://github.com/Tyriar/vscode-theme-sapphire/issues/2) via [@Tyriar](https://github.com/Tyriar)
+
 ## 0.8.0
 
 - Upgraded to vscode-theme-generator@0.0.21

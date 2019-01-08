@@ -2,7 +2,7 @@
   "name": "theme-sapphire",
   "displayName": "Sapphire Theme",
   "description": "Sapphire is a vibrant blue theme for Visual Studio Code",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "publisher": "Tyriar",
   "icon": "images/icon.png",
   "license": "MIT",
