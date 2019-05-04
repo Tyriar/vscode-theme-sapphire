@@ -1,3 +1,8 @@
+## 0.9.0
+
+- Upgraded to vscode-theme-generator@0.1.2
+- Add custom badge colors in search, scm, etc.
+
 ## 0.8.2
 
 - Add remote status bar color

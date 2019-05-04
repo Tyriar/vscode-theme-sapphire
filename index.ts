@@ -88,8 +88,7 @@ const colorSet: IColorSet = {
     "gitDecoration.conflictingResourceForeground": "#fff099",
     "gitDecoration.ignoredResourceForeground": "#535a6b",
     "editorError.foreground": "#DA6771",
-    "editorIndentGuide.activeBackground": "#535a6b",
-    "statusBarItem.remoteBackground": "#2d7ec3"
+    "editorIndentGuide.activeBackground": "#535a6b"
   }
 };
 
