@@ -1,3 +1,8 @@
+## 0.8.2
+
+- Add remote status bar color
+- Add active indent background
+
 ## 0.8.1
 
 - Improve contrast of text and diff editor inserted/deleted background colors [#2](https://github.com/Tyriar/vscode-theme-sapphire/issues/2) via [@Tyriar](https://github.com/Tyriar)
