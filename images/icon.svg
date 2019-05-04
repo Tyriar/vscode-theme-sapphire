@@ -21,4 +21,6 @@
             <path d="m0 23 l30 0 l-15 23" fill="#4eb071"/>
         </g>
     </g>
+    <circle cx="64" cy="64" r="16" fill="#181e29"/>
+    <circle cx="64" cy="64" r="11" fill="#399ef4"/>
 </svg>
