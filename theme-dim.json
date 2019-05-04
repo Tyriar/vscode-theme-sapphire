@@ -428,6 +428,8 @@
     "gitDecoration.ignoredResourceForeground": "#535a6b",
     "editorError.foreground": "#DA6771",
     "editorIndentGuide.activeBackground": "#535a6b",
-    "statusBarItem.remoteBackground": "#2d7ec3"
+    "statusBarItem.remoteBackground": "#2d7ec3",
+    "statusBarItem.remoteForeground": "#000000",
+    "badge.foreground": "#000000"
   }
 }
