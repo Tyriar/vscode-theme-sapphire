@@ -1,3 +1,8 @@
+## 0.9.1
+
+- Upgraded to vscode-theme-generator@0.1.5
+- Fix colors in Sapphire Dim
+
 ## 0.9.0
 
 - Upgraded to vscode-theme-generator@0.1.2
