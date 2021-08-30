@@ -1,3 +1,7 @@
+## 0.9.2
+
+- Upgraded to vscode-theme-generator@0.2.0 which includes bracket colorization support
+
 ## 0.9.1
 
 - Upgraded to vscode-theme-generator@0.1.5
