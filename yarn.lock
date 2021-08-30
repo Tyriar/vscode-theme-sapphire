@@ -12,7 +12,7 @@ typescript@^2.2.1:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
   integrity sha512-Gr4p6nFNaoufRIY4NMdpQRNmgxVIGMs4Fcu/ujdYk3nAZqk7supzBE9idmvfZIlH/Cuj//dvi+019qEue9lV0w==
 
-vscode-theme-generator@0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/vscode-theme-generator/-/vscode-theme-generator-0.1.5.tgz#787bd07cb9cb7570740a540d644e25cde4432a55"
-  integrity sha512-7uiLD9XFzBjZPjpVqILOBYrv8MhbGwQ9KzJ+PQ9kQ1BWm5bpGPIHdSSPUJXWAEwY6U/Otl9oZHpoKYK6UlH7uw==
+vscode-theme-generator@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/vscode-theme-generator/-/vscode-theme-generator-0.2.0.tgz#6b729cf719fe2e50b41880d8615350d15b346cb6"
+  integrity sha512-20LLznqBU8RZIE9QqhFJiuijFV+LZYyJSDJY2UdpMAzSk1l0j4GJ9ICTnYhyzZfAfy5Qg22jO77NzlonVs0Hbg==
