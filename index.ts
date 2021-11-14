@@ -120,8 +120,6 @@ const brightColorSet: IColorSet = {
     'editor.background': '#2a3447',
     'editor.selectionBackground': '#fff3',
 
-    'editorWhitespace.foreground': '#fff2',
-
     'tab.activeBackground': '#3a4966',
     'tab.inactiveBackground': '#2d384d',
   }

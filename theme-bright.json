@@ -386,7 +386,7 @@
     "editor.lineHighlightBorder": "#263040",
     "editorLink.activeForeground": "#399EF4",
     "editor.rangeHighlightBackground": "#FFFFFF0d",
-    "editorWhitespace.foreground": "#fff2",
+    "editorWhitespace.foreground": "#263040",
     "editorIndentGuide.background": "#263040",
     "editorWidget.background": "#2b3649",
     "editorHoverWidget.background": "#2b3649",
