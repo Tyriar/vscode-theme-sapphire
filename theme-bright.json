@@ -90,7 +90,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#535a6b",
+        "foreground": "#fff6",
         "fontStyle": "italic"
       }
     },
@@ -320,7 +320,7 @@
       "name": "C# preprocessor",
       "scope": "source.cs meta.preprocessor",
       "settings": {
-        "foreground": "#535a6b"
+        "foreground": "#fff6"
       }
     },
     {
@@ -367,17 +367,17 @@
     "editorGroupHeader.tabsBackground": "#2b3649",
     "tab.border": "#00000033",
     "tab.activeBorder": "#399EF4",
-    "tab.inactiveBackground": "#323f55",
+    "tab.inactiveBackground": "#2d384d",
     "tab.activeModifiedBorder": "#399EF4",
     "tab.inactiveModifiedBorder": "#225e92",
     "tab.unfocusedActiveModifiedBorder": "#2d7ec3",
     "tab.unfocusedInactiveModifiedBorder": "#225e92",
-    "editor.background": "#242d3d",
+    "editor.background": "#2a3447",
     "editor.foreground": "#efefef",
     "editorLineNumber.foreground": "#FFFFFF4d",
     "editorLineNumber.activeForeground": "#399EF4",
     "editorCursor.foreground": "#ffffff",
-    "editor.selectionBackground": "#153958",
+    "editor.selectionBackground": "#fff3",
     "editor.selectionHighlightBackground": "#2b74b380",
     "editor.wordHighlightBackground": "#ffffff18",
     "editor.wordHighlightStrongBackground": "#ffffff18",
@@ -431,8 +431,8 @@
     "editorBracketHighlight.foreground3": "#61dc8d",
     "editorBracketHighlight.foreground4": "#ffffbf",
     "selection.background": "#399EF4",
-    "diffEditor.insertedTextBackground": "#182818",
-    "diffEditor.removedTextBackground": "#261616",
+    "diffEditor.insertedTextBackground": "#0f02",
+    "diffEditor.removedTextBackground": "#f003",
     "editorGutter.modifiedBackground": "#4EB071",
     "editorGutter.addedBackground": "#399EF4",
     "editorGutter.deletedBackground": "#DA6771",
@@ -442,6 +442,9 @@
     "gitDecoration.conflictingResourceForeground": "#fff099",
     "gitDecoration.ignoredResourceForeground": "#535a6b",
     "editorError.foreground": "#DA6771",
-    "editorIndentGuide.activeBackground": "#535a6b"
+    "editorIndentGuide.activeBackground": "#535a6b",
+    "diffEditor.insertedTextBorder": "#0004",
+    "diffEditor.removedTextBorder": "#0004",
+    "tab.activeBackground": "#3a4966"
   }
 }

@@ -94,8 +94,37 @@ const colorSet: IColorSet = {
 
 generateTheme('Sapphire', colorSet, path.join(__dirname, 'theme.json'));
 
-colorSet.base.background = '#242d3d'
-generateTheme('Sapphire (Bright)', colorSet, path.join(__dirname, 'theme-bright.json'));
+const brightColorSet: IColorSet = {
+  base: {
+    ...colorSet.base,
+    background: '#242d3d',
+  },
+  syntax: {
+    ...colorSet.syntax,
+    comment: '#fff6'
+  },
+  ui: {
+    ...colorSet.ui
+  },
+  terminal: {
+    ...colorSet.terminal
+  },
+  overrides: {
+    ...colorSet.overrides,
 
-colorSet.base.background = '#080d14'
+    'diffEditor.insertedTextBackground': '#0f02',
+    'diffEditor.removedTextBackground': '#f003',
+    'diffEditor.insertedTextBorder': '#0004',
+    'diffEditor.removedTextBorder': '#0004',
+
+    'editor.background': '#2a3447',
+    'editor.selectionBackground': '#fff3',
+
+    'tab.activeBackground': '#3a4966',
+    'tab.inactiveBackground': '#2d384d',
+  }
+}
+generateTheme('Sapphire (Bright)', brightColorSet, path.join(__dirname, 'theme-bright.json'));
+
+colorSet.base.background = '#080d14';
 generateTheme('Sapphire (Dim)', colorSet, path.join(__dirname, 'theme-dim.json'));
