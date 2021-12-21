@@ -1,3 +1,7 @@
+## 0.9.3
+
+- Brightened up some bright variant colors [#17](https://github.com/Tyriar/vscode-theme-sapphire/pull/17) via [@Harvtronix](https://github.com/Harvtronix)
+
 ## 0.9.2
 
 - Upgraded to vscode-theme-generator@0.2.0 which includes bracket colorization support
