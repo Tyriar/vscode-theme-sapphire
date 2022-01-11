@@ -1,3 +1,8 @@
+## 0.9.4
+
+- Upgraded to vscode-theme-generator@0.2.0
+  - Removes `list.focusBackground` so ctrl+click to deselect in lists shows correctly
+
 ## 0.9.3
 
 - Brightened up some bright variant colors [#17](https://github.com/Tyriar/vscode-theme-sapphire/pull/17) via [@Harvtronix](https://github.com/Harvtronix)
